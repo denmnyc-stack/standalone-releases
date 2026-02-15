@@ -11,7 +11,7 @@
     <item>
       <title>Version 1.0.1</title>
       <pubDate>Sat, 15 Feb 2026 16:00:00 -0500</pubDate>
-      <sparkle:version>2</sparkle:version>
+      <sparkle:version>1</sparkle:version>
       <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <description>
