@@ -8,6 +8,26 @@
 
     <!-- Latest version - new releases are inserted below this line -->
     <item>
+      <title>Version 1.1.0</title>
+      <pubDate>Mon, 16 Mar 2026 15:32:28 -0400</pubDate>
+      <sparkle:version>10</sparkle:version>
+      <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>
+        <![CDATA[
+          <h2>Standalone 1.1.0</h2>
+          <p>MIDI Support (Beta): Connect a MIDI foot controller to control plugins and host functions. MIDI Learn, Program Change preset switching, channel filter. Stability, performance, and other improvements.</p>
+        ]]>
+      </description>
+      <enclosure
+        url="https://github.com/denmnyc-stack/standalone-releases/releases/download/v1.1.0/Standalone-1.1.0.zip"
+        length="6492133"
+        type="application/octet-stream"
+        sparkle:edSignature="NBct+0n6rZfkzn+iiHFaiwLjq82rrEHHdWSa9ieXD2No4GTsTYYcXUPU6/zFZi/BjYTOb8vBbBpgIbK39KvdDA=="
+      />
+    </item>
+
+    <item>
       <title>Version 1.0.8</title>
       <pubDate>Wed, 11 Mar 2026 13:33:13 -0400</pubDate>
       <sparkle:version>9</sparkle:version>
