@@ -8,6 +8,26 @@
 
     <!-- Latest version - new releases are inserted below this line -->
     <item>
+      <title>Version 1.2.0</title>
+      <pubDate>Mon, 30 Mar 2026 20:11:56 -0400</pubDate>
+      <sparkle:version>11</sparkle:version>
+      <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>
+        <![CDATA[
+          <h2>Standalone 1.2.0</h2>
+          <p>Stereo inputs, preset linking, snap to transient, and major stability improvements</p>
+        ]]>
+      </description>
+      <enclosure
+        url="https://github.com/denmnyc-stack/standalone-releases/releases/download/v1.2.0/Standalone-1.2.0.zip"
+        length="6694162"
+        type="application/octet-stream"
+        sparkle:edSignature="jZsOQysqXw7xiNazvtIJopwaAhw301RJ3EfjMP7Y1HWaDD4Wet+S1XTRpdMMXHDowtRP+qn5J6Td2q+SWvlADg=="
+      />
+    </item>
+
+    <item>
       <title>Version 1.1.0</title>
       <pubDate>Mon, 16 Mar 2026 15:32:28 -0400</pubDate>
       <sparkle:version>10</sparkle:version>
