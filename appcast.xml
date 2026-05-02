@@ -8,22 +8,22 @@
 
     <!-- Latest version - new releases are inserted below this line -->
     <item>
-      <title>Version 1.2.2</title>
-      <pubDate>Wed, 22 Apr 2026 20:03:58 -0400</pubDate>
-      <sparkle:version>13</sparkle:version>
-      <sparkle:shortVersionString>1.2.2</sparkle:shortVersionString>
+      <title>Version 1.2.3</title>
+      <pubDate>Sat, 02 May 2026 18:00:13 -0400</pubDate>
+      <sparkle:version>14</sparkle:version>
+      <sparkle:shortVersionString>1.2.3</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <description>
         <![CDATA[
-          <h2>Standalone 1.2.2</h2>
-          <p>New: selectable output channel pairs for multi-output interfaces. Bug fixes and stability improvements</p>
+          <h2>Standalone 1.2.3</h2>
+          <p>Stability fixes and improved error recovery.cd</p>
         ]]>
       </description>
       <enclosure
-        url="https://github.com/denmnyc-stack/standalone-releases/releases/download/v1.2.2/Standalone-1.2.2.zip"
-        length="6758507"
+        url="https://github.com/denmnyc-stack/standalone-releases/releases/download/v1.2.3/Standalone-1.2.3.zip"
+        length="6894527"
         type="application/octet-stream"
-        sparkle:edSignature="H16gZaaRI+reC1N+EBO5okBn8HNjGDpBoVNFR+daArQej7AIKqwx1+lTwwoK7asylIbRTCJQJZjkuNN5MQqhAw=="
+        sparkle:edSignature="mxYNJy8OnCZldAfuK6kzUjIfzSEBVS9MXwNcx1uxf0zYe9D0jPnhrp2BVFK+qr+7bxTmnLd4ilO5F1e+YLjIDQ=="
       />
     </item>
 
