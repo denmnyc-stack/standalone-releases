@@ -16,14 +16,14 @@
       <description>
         <![CDATA[
           <h2>Standalone 1.2.3</h2>
-          <p>Stability fixes and improved error recovery.cd</p>
+          <p>Stability fixes and improved error recovery.</p>
         ]]>
       </description>
       <enclosure
         url="https://github.com/denmnyc-stack/standalone-releases/releases/download/v1.2.3/Standalone-1.2.3.zip"
-        length="6894527"
+        length="6894562"
         type="application/octet-stream"
-        sparkle:edSignature="mxYNJy8OnCZldAfuK6kzUjIfzSEBVS9MXwNcx1uxf0zYe9D0jPnhrp2BVFK+qr+7bxTmnLd4ilO5F1e+YLjIDQ=="
+        sparkle:edSignature="YkoJrSpce4ZlnRLyLQ8xZuROR//ltxmky55ijRRgYb/9kvocx3knN82AJkkZ+mbq5/kMdCWyYKKEj9nUgfnrAg=="
       />
     </item>
 
