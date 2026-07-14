@@ -8,22 +8,22 @@
 
     <!-- Latest version - new releases are inserted below this line -->
     <item>
-      <title>Version 2.0</title>
-      <pubDate>Mon, 29 Jun 2026 14:21:27 -0400</pubDate>
-      <sparkle:version>16</sparkle:version>
-      <sparkle:shortVersionString>2.0</sparkle:shortVersionString>
+      <title>Version 2.0.1</title>
+      <pubDate>Tue, 14 Jul 2026 12:21:30 -0400</pubDate>
+      <sparkle:version>17</sparkle:version>
+      <sparkle:shortVersionString>2.0.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <description>
         <![CDATA[
-          <h2>Standalone 2.0</h2>
-          <p>STANDALONE 2.0 featuring KEYS MODE! Host AU software instruments alongside your guitar rig — MIDI input, independent keys presets, and per-chain mute. Plus major audio-engine stability fixes for device switching, restarts, and recovery.</p>
+          <h2>Standalone 2.0.1</h2>
+          <p>Stability and bug fixes. Input trim and master volume now deliver their full +12 dB range. Compact mode has a visible expand handle.</p>
         ]]>
       </description>
       <enclosure
-        url="https://github.com/denmnyc-stack/standalone-releases/releases/download/v2.0/Standalone-2.0.zip"
-        length="7368356"
+        url="https://github.com/denmnyc-stack/standalone-releases/releases/download/v2.0.1/Standalone-2.0.1.zip"
+        length="7484235"
         type="application/octet-stream"
-        sparkle:edSignature="fNoFr24PojkGQj5x9Z4T9okL6Il7fVqDUHPlo/xMpPGmojS1tKmjctHDwUGwnk36Sw+t7ZIsi+CjeQBYJOn2Aw=="
+        sparkle:edSignature="IvqXS5Rl/C0/2eeZ83deBdKJFVkO84RQv5e8yDEv0WnPcoarffcJy0r5M0Q64yG6nLcNXc/at5dFdZE9kZOFBA=="
       />
     </item>
 
