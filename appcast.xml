@@ -8,6 +8,26 @@
 
     <!-- Latest version - new releases are inserted below this line -->
     <item>
+      <title>Version 2.0.4</title>
+      <pubDate>Sat, 14 Nov 2026 16:11:52 -0500</pubDate>
+      <sparkle:version>20</sparkle:version>
+      <sparkle:shortVersionString>2.0.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>
+        <![CDATA[
+          <h2>Standalone 2.0.4</h2>
+          <p>Stability improvements and bug fixes.</p>
+        ]]>
+      </description>
+      <enclosure
+        url="https://github.com/denmnyc-stack/standalone-releases/releases/download/v2.0.4/Standalone-2.0.4.zip"
+        length="8629651"
+        type="application/octet-stream"
+        sparkle:edSignature="/7iMABLTR1dlj6EoBh3ABJc/5N99VKhehx1LTBKAHcoAgNlt/srvDRHSFHIlosVg8CgZgnPgVczg/h3or1tgAA=="
+      />
+    </item>
+
+    <item>
       <title>Version 2.0.3</title>
       <pubDate>Wed, 29 Jul 2026 14:37:01 -0400</pubDate>
       <sparkle:version>19</sparkle:version>
